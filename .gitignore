@@ -1,0 +1,5 @@
+.build
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.swiftpm/xcode/package.xcworkspace/xcuserdata/tonyshort.xcuserdatad/UserInterfaceState.xcuserstate
+.swiftpm/xcode/xcuserdata/tonyshort.xcuserdatad/xcschemes/xcschememanagement.plist
+.vscode/launch.json
